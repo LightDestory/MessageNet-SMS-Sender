@@ -3,7 +3,7 @@
 > **When you need something but you can't find it... _JUST CREATE IT_** :shipit:
 
 ## :large_orange_diamond: Description
-_This project doesn't follow any programing standard/guidelines, it was coded by a monkey (myself)  :stuck_out_tongue:_
+_This project doesn't follow any programming standard/guidelines, it was coded by a monkey (myself)  :stuck_out_tongue:_
 
 A project developed on my school days. It will not developed anymore. **The software is available as it is.**
 
